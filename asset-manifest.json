@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/marko-valuh/static/css/main.901497a2.css",
-    "main.js": "/marko-valuh/static/js/main.92e7d40f.js",
-    "static/media/banner-cover.jpg": "/marko-valuh/static/media/banner-cover.9f665b1e4268b51bf129.jpg",
-    "static/media/peugeons.jpg": "/marko-valuh/static/media/peugeons.451c4bcf4c1557562b0c.jpg",
-    "static/media/about-me.jpg": "/marko-valuh/static/media/about-me.3947d5dd1b78cf0264bb.jpg",
-    "index.html": "/marko-valuh/index.html",
-    "static/media/close.svg": "/marko-valuh/static/media/close.c78e8b4e34887248327151a728892bdf.svg",
-    "static/media/subtract.svg": "/marko-valuh/static/media/subtract.88e5ef556ee1ed1e7b2529124bb0fcce.svg",
-    "static/media/arrow-cta.svg": "/marko-valuh/static/media/arrow-cta.f6e1ca4987972a3edd80ddfff9e97c69.svg",
-    "main.901497a2.css.map": "/marko-valuh/static/css/main.901497a2.css.map",
-    "main.92e7d40f.js.map": "/marko-valuh/static/js/main.92e7d40f.js.map"
+    "main.css": "/curriculum-vitae/static/css/main.98c68fb5.css",
+    "main.js": "/curriculum-vitae/static/js/main.2995f9b7.js",
+    "static/media/banner-cover.jpg": "/curriculum-vitae/static/media/banner-cover.9f665b1e4268b51bf129.jpg",
+    "static/media/peugeons.jpg": "/curriculum-vitae/static/media/peugeons.451c4bcf4c1557562b0c.jpg",
+    "static/media/about-me.jpg": "/curriculum-vitae/static/media/about-me.3947d5dd1b78cf0264bb.jpg",
+    "index.html": "/curriculum-vitae/index.html",
+    "static/media/close.svg": "/curriculum-vitae/static/media/close.c78e8b4e34887248327151a728892bdf.svg",
+    "static/media/subtract.svg": "/curriculum-vitae/static/media/subtract.88e5ef556ee1ed1e7b2529124bb0fcce.svg",
+    "static/media/arrow-cta.svg": "/curriculum-vitae/static/media/arrow-cta.f6e1ca4987972a3edd80ddfff9e97c69.svg",
+    "main.98c68fb5.css.map": "/curriculum-vitae/static/css/main.98c68fb5.css.map",
+    "main.2995f9b7.js.map": "/curriculum-vitae/static/js/main.2995f9b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.901497a2.css",
-    "static/js/main.92e7d40f.js"
+    "static/css/main.98c68fb5.css",
+    "static/js/main.2995f9b7.js"
   ]
 }

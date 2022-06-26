@@ -1,0 +1,48 @@
+.c-header-wrapper {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    transition: all .2s linear;
+
+    &.is-sticky {
+        background-color: rgba(0,0,0,.6);
+        backdrop-filter: blur(4px);
+
+        .c-header {
+            padding: .8rem 0;
+        }
+    }
+}
+
+.c-header {
+    padding: 2.8rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.c-header__logo {
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.c-header__nav {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 1rem;
+}
+
+.c-header__nav-link {
+    font-size: 1rem;
+    font-weight: 300;
+
+    a {
+        color: white;
+    }
+}

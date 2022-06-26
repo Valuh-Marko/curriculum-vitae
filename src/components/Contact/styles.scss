@@ -1,0 +1,54 @@
+.c-contact {
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("../../images/peugeons.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.c-contact-content-wrapper {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    gap: 2rem;
+}
+
+.c-contact-title {
+    position: relative;
+    color: white;
+    font-size: 4rem;
+    font-weight: 400;
+
+    &:before {
+        position: absolute;
+        content: "";
+        display: block;
+        width: 3.125rem;
+        height: 2px;
+        background: #9D9E54;
+        left: -1rem;
+        top: 2.8rem;
+        transform: translateX(-100%);
+    }
+}
+
+.c-contact-text {
+    color: white;
+    max-width: 39.375rem;
+    font-weight: 300;
+    line-height: 1.75rem;
+
+    a {
+        color: white;
+        font-weight: bold;
+    }
+}
+
+.c-contact-cta {
+    color: white;
+}

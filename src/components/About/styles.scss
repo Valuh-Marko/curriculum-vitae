@@ -1,0 +1,36 @@
+.c-about {
+    background-image: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.9)), url("../../images/about-me.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.c-about-content-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    gap: 2rem;
+    text-align: left;
+    
+
+    & > *:not(a) {
+        width: 50%;
+        margin-left: auto;
+    }
+}
+
+.c-about-skills {
+    line-height: 1.75rem;
+    padding-left: 1rem;
+}
+
+.c-about-skill {
+    margin: initial;
+}
+
+.c-about-cta {
+    color: black;
+    margin-left: 50%;
+}

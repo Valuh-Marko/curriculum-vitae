@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "Movie Router",
+        "desc" : "This application is a showcase of a movie database API, it displays the latest movies, their current rating and much more. This app was used to learn react and styled components, along with working with API's.", 
+        "workflow" : [
+            "On the landing page, the most watch movie will be displayed up front, according to the database",
+            "You can click on any individual movie to bring it to focus, switching to page to it's specific route",
+            "You can search for any movie that you want in the search tab",
+            "If you want to see more, just load more! :D"
+        ],
+        "thumbnail" : "https://i.imgur.com/aieCxUr.jpg",
+        "video" : "https://i.imgur.com/mk5DePk.mp4",
+        "github" : "https://github.com/Valuh-Marko/Movie-Router"
+    },
+    {
+        "name" : "Calculator",
+        "desc" : "This application is a mimic of a fully functional calculator, created with ReactJS.", 
+        "workflow" : [
+            "Not really much about it, it's a calculator, not even that pretty..."
+        ],
+        "thumbnail" : "https://i.imgur.com/wmXc8Ut.jpg",
+        "video" : "https://i.imgur.com/HchARYF.mp4",
+        "github" : "https://github.com/Valuh-Marko/calculator"
+    },
+    {
+        "name" : "Portfolio V1",
+        "desc" : "First version of my portfolio website, created with ReactJS. It uses Framer Motion to incrporate complex animations, stylizes with SASS and Material UI, and has functional Routing", 
+        "workflow" : [
+            "Upon opening the website, use either your mousewheel or arrow keys to explore the website",
+            "Each page has something to show, play around :)",
+            "The Projects page is a showcase of the things I have created over my career. Each of the projects is clicable. On the right side of the screen, you can preview the project on one of three devices added"
+        ],
+        "thumbnail" : "https://i.imgur.com/EewN6CA.jpg",
+        "video" : "https://i.imgur.com/LVa1bUo.mp4",
+        "github" : "https://github.com/Valuh-Marko/mv-resume"
+    }
+]

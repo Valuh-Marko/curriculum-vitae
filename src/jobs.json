@@ -1,0 +1,29 @@
+[
+    {
+        "title" : "EPAM Systems",
+        "startDate" : "February 2022",
+        "endDate" : "Present",
+        "role" : "Web Developer",
+        "desc" : "Worked with the team to develop and maintain a large scale multi-platform application for a big betting company. The brunt of the work was done in Angular and NodeJS, where I worked closely with my colleagues to ship a high end product, with weekly updates. I was tasked with implementing new features, finding performance effective visual solutions and shipping the application to production.",
+        "link" : "https://www.epam.com/?gclid=Cj0KCQjwkruVBhCHARIsACVIiOyEm6zCxiFqhYeo_5FrF-I80ljRBPCZRWWHx7YmZqaK9Yq6nHWM5KkaAgpgEALw_wcB",
+        "img" : "https://i.imgur.com/e7oh9oi.png"
+    },
+    {
+        "title" : "Codeplicity",
+        "startDate" : "February 2021",
+        "endDate" : "February 2022",
+        "role" : "Frontend Developer",
+        "desc" : "I was a part of a large scale team developing numerous web applications ranging from single page websites to full blown applications. The front part of the app was using our custombuilt JavaScript framework. The technologies used in the projects weremostly HTML, CSS, JavaScript and PHP.",
+        "link" : "https://codeplicity.com/",
+        "img" : "https://i.imgur.com/fG7Vt4I.jpg"
+    },
+    {
+        "title" : "Wonderland AI",
+        "startDate" : "May 2020",
+        "endDate" : "October 2021",
+        "role" : "Web Developer",
+        "desc" : "I brought improvements to the existing ecosystem by working on developing a task tracking system within Google Sheets, using GoogleScript. I created and maintained the website while continuously implementing and refining new features.",
+        "link" : "https://wonderlandai.com/",
+        "img" : "https://i.imgur.com/RNXOuRM.png"
+    }
+]

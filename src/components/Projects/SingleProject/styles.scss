@@ -1,0 +1,85 @@
+.c-project-wrapper {
+    padding: 7.5rem 2rem;
+    color: white;
+    cursor: pointer;
+    transition: .3s ease-out;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.c-project-title {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 4rem;
+}
+
+.c-project-desc {
+    line-height: 1.75rem;
+    margin-bottom: 8rem;
+}
+
+.c-project-cta {
+    color: white;
+    margin-top: auto;
+    pointer-events: none;
+}
+
+.c-modal__content {
+    height: 100%;
+    width: 100%;
+}
+
+.c-project-video {
+    position: absolute;
+    border-radius: 20px 20px 0 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.c-project-video__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background: linear-gradient(0deg, rgba(32,32,32,1) 20%, rgba(32,32,32,.3) 60%, rgba(32,32,32,.2) 100%);
+}
+
+.c-project-modal-content {
+    background: linear-gradient(0deg, rgba(0,0,0,1) 20%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0) 100%);
+    border-radius: 0 0 20px 20px;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    z-index: 3;
+    padding: 6rem 4rem 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    &::-webkit-scrollbar {
+        display: none;
+        width: 0;
+    }
+}
+
+.c-modal__title {
+    font-size: 3rem;
+}
+
+.c-modal__desc {
+    line-height: 1.75rem;
+    max-width: 80%;
+}
+
+.c-modal__workflow-list {
+    padding-left: 1rem;
+    line-height: 1.75rem;
+    max-width: 80%;
+}
